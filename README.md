@@ -45,7 +45,7 @@ print("Predicted CO2 for the corresponding weight and volume",predictedCO2)
 
 
 ## Insert your output:
-![model](put2.png)
+![model](put.png)
 
 
 ## Result
